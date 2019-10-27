@@ -22,6 +22,12 @@
   },
   "homepage": "https://github.com/EwelinaKrysiak/warsawjs-workshop-37-typescript#readme",
   "dependencies": {
+    "is": "^3.3.0",
+    "is-letter": "^1.2.1",
+    "letter": "0.0.1",
     "typescript": "^3.6.4"
+  },
+  "devDependencies": {
+    "ts-essentials": "^3.0.2"
   }
 }

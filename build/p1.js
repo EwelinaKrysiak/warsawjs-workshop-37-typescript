@@ -4,8 +4,9 @@ function p1(a) {
     if (a) {
         return a.map((x) => `(${x})`).join(' ');
     }
-
+    else {
         a;
+    }
 }
 console.log(p1([1, 20, 10]));
 console.log(p1([1])); //próba wywołania niewłaściwych paarametrów
