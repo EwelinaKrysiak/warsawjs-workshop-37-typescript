@@ -24,6 +24,7 @@
   "dependencies": {
     "is": "^3.3.0",
     "is-letter": "^1.2.1",
+    "is-not-letter": "0.0.1",
     "letter": "0.0.1",
     "typescript": "^3.6.4"
   },
