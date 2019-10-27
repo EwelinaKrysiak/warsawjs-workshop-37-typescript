@@ -1,0 +1,22 @@
+{
+  "name": "warsawjs-workshop-37-typescript",
+  "version": "1.0.0",
+  "description": "WJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EwelinaKrysiak/warsawjs-workshop-37-typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "EK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EwelinaKrysiak/warsawjs-workshop-37-typescript/issues"
+  },
+  "homepage": "https://github.com/EwelinaKrysiak/warsawjs-workshop-37-typescript#readme"
+}
