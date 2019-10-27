@@ -1,4 +1,3 @@
-"use strict";
 function p1(a) {
     //[1,2,10] =>{(1), (2), (10)]
     if (a) {

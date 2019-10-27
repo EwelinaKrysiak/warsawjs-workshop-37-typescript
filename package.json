@@ -2,7 +2,7 @@
   "name": "warsawjs-workshop-37-typescript",
   "version": "1.0.0",
   "description": "WJS",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
     "start": "node build/p1.js",
     "build": "tsc",
